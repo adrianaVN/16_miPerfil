@@ -1,0 +1,92 @@
+li{
+	display: inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-family: oswald;
+}
+.back{
+	background-image: url("../images/atenea.jpg");
+	background-size: 100% 100%;
+	height: 400px;
+	background-repeat: no-repeat;
+	
+}
+.foto{
+	widows: 170px;
+	height: 170px;
+	border-style: solid;
+	border-color: #6B12B7;
+	padding: 3px;
+}
+.img{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: #6B12B7;
+	padding: 1px;
+}
+/* body{
+	background-color: #E5D22F;
+} */
+.back2{
+	background-image: url("../images/tile1.png");
+	background-size: 100% 90%;
+	height: 300px;
+	/* background-repeat: no-repeat; */
+	
+}
+h2{
+	font-family: oswald;
+	color:#6B12B7; 
+}
+.back3{
+	background-image: url("../images/tile2.png");
+	background-size: 100% 90%;
+	height: 200px;
+}
+.imgf{
+	width: 90px;
+	height: 90px;
+
+}
+.espacio{
+	margin-top: 5%;
+}
+.espacio2{
+	margin-top: 2%;
+}
+h1{
+	color: #F4F11E;
+	font-family: oswald;
+	font-size: 250%;
+}
+p{
+	color: black;
+	font-family: oswald;
+	font-size: 100%;
+}
+h3{
+	color: white;
+	font-family: oswald;
+	font-size: 150%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.img:hover{
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5)
+}
+.imgf:hover {
+    height: 100px;
+    width: 100px;
+    /* margin-left: 50px; */
+}
+body{
+	background-color: #D7BCE3;
+}
